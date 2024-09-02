@@ -19,5 +19,3 @@ Just Dance es un juego de ritmo desarrollado y publicado por Ubisoft para Wii, y
 <p>
 <strong>
 Just Dance 2024 Edition es el decimoquinto videojuego de ritmo de baile de la serie Just Dance y el segundo que se lanza como paquete de canciones anuales que se acumulan en el juego base Just Dance® una vez adquiridos, después de que la serie cambiara a un formato de servicio en vivo.
-</p>
-<img src = "justdance.jpg">
